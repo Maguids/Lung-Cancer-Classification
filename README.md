@@ -81,6 +81,7 @@ We tested each kind of the feature selections above in every proposed model for 
 ## About the repository:
 
 - datasets ➡️ Folder with the created datasets;
+- Extração_Dados_Pylidc.ipynb ➡️ Jupyter Notebook with the code used to extract data from the CT scans; 
 - Implicações éticas e legais no diagnóstico de cancros de pulmão.pdf ➡️ Is a pdf file that debates the ethical and legal implications of using AI in lung cancer detection;
 - Lab_IACD_Project1.pdf ➡️Project statement
 - T1_LabIACD_Project1.pdf ➡️ More information on how to develop the project;
